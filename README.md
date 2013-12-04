@@ -9,7 +9,7 @@ Instructions
 2. Copy the sample config file and fill in the details.
 3. Run the script manually or setup a cron job to run the script every x minutes.
 
-php cf_cname_updater.php sample_config
+`php cf_cname_updater.php sample_config`
 
 
 That's all!
